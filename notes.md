@@ -49,12 +49,14 @@
   <br>
   
   * **Representação**
+    <br>
     ![kafka-cluster](https://github.com/ImGabreuw/imersao-fullstack-fullcycle/blob/master/.github/kafka_cluster.PNG)
   
 * O que é um Kafka Cluster: Replication Factor
   * Apache ZooKeeper - serviço para gerenciar as máquinas com base na "saúde" dela,
 
   * **Representação**
+    <br>
     ![kafka-cluster-replication-factor](https://github.com/ImGabreuw/imersao-fullstack-fullcycle/blob/master/.github/kafka_cluster_replication_factor.PNG)
 
 * Ecossistema
