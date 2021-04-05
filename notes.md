@@ -7,6 +7,5 @@
 
 ### WebSocket
 
-* O que é?
-  * Uma forma de você fazer uma conexão TCP entre o browser e o servidor (**conexão persistente**)
-  * Requisições no mesmo canal
+* Uma forma de você fazer uma conexão TCP entre o browser e o servidor (**conexão persistente**)
+* Requisições no mesmo canal
