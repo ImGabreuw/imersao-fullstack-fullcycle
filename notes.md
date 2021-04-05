@@ -20,8 +20,6 @@
 * Tempo real (**pouca latência**)
 * Histórico dos dados
 
-<br>
-
 ### Características
 * Plataforma
 * Trabalha de forma distribuída  
@@ -29,11 +27,7 @@
 * Extremamente rápido e com baixa latência
 * Utiliza o disco ao invés de memória para processar os dados
 
-<br>
-
 ### **OBS**: **NÃO** é apenas um sistema tradicional de filas como **RabbitMQ**
-
-<br>
 
 ### Conceitos básicos
 
